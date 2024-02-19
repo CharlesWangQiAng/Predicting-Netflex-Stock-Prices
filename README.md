@@ -4,4 +4,4 @@ In this project, I focused on predicting the stock prices of Netflix (Netflex) b
 # Data Science Techniques Used
 RNN, LSTM, GRU, Scikit-Learn, Pandas, Numpy, PyTorch. 
 # Tools Used
-Python, Jupyter Notebook
+Python
